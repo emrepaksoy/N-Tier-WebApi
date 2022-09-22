@@ -1,0 +1,14 @@
+D:\ef_rest_api\testAPI\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+D:\ef_rest_api\testAPI\EntityLayer\bin\Debug\net6.0\EntityLayer.runtimeconfig.json
+D:\ef_rest_api\testAPI\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+D:\ef_rest_api\testAPI\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\ef_rest_api\testAPI\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+D:\ef_rest_api\testAPI\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ef_rest_api\testAPI\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+D:\ef_rest_api\testAPI\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+D:\ef_rest_api\testAPI\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\ef_rest_api\testAPI\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+D:\ef_rest_api\testAPI\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+D:\ef_rest_api\testAPI\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+D:\ef_rest_api\testAPI\EntityLayer\obj\Debug\net6.0\EntityLayer.genruntimeconfig.cache
+D:\ef_rest_api\testAPI\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
